@@ -1,0 +1,5 @@
+{:deps
+ {juxt/crux-core        {:mvn/version "dev-SNAPSHOT"}
+  juxt/crux-rocksdb     {:mvn/version "dev-SNAPSHOT"}
+  juxt/crux-http-server {:mvn/version "dev-SNAPSHOT"}
+  juxt/crux-lucene      {:mvn/version "dev-SNAPSHOT"}}}
